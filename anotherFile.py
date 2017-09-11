@@ -5,3 +5,6 @@ def woooooaaaah():
     while i < 10000:
         print(chr(i))
         i += 1
+
+def theseAreSoUseful():
+    print('These Features Are not useful')

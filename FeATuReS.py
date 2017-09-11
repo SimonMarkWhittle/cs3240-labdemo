@@ -12,3 +12,17 @@ def soManyFeatures(daList):
         print(item)
 
     print('aal don!')
+
+def yetAnotherFeature(eeeee):
+    if eeeee is not None:
+        i = 0
+        while i < 10000:
+            print('EEEEEEEEEEEEEEEEEE')
+            i += 1
+
+def bestFeatureEver(aaaa):
+    if aaaa is not None:
+        i = 0
+        while i < 10000:
+            print('AAAAAAAAAAAAAAAAAAA')
+            i += 1
