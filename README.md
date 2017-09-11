@@ -1,1 +1,1 @@
-# cs3240-labdemo
+# cs3240-labdemo; yes, that is indeed the name of this repo
